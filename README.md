@@ -7,7 +7,7 @@
   <em>Building useful things, one commit at a time.</em>
 </p>
 <br>
-I'm a **Cloud Solution Architect at Microsoft** specializing in **Data & AI**, helping organizations build modern, secure, and governed data platforms that accelerate analytics and AI adoption.
+I'm a Cloud Solution Architect at Microsoft based in Dubaim UAE and specializing in Data & AI. I help organizations build modern, secure and governed data platforms that accelerate analytics and AI adoption.
 
 My work focuses on designing enterprise-scale solutions across **Microsoft Fabric**, **Azure Data Platform**, **Microsoft Purview**, **Databricks**, and AI technologies. I'm particularly passionate about **data governance**, **modern data architectures**, and helping organizations establish trusted data foundations that turn data into measurable business value.
 
